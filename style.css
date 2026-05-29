@@ -1,0 +1,36 @@
+#titre{
+    text-align: center;
+    color: rgb(139, 184, 35);
+    font-style: oblique;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+
+.titre{
+    border:1px solid;
+    color: red;
+    border-radius: 50% 50%;
+    padding:10PX;
+    color: blue;
+}
+.backgruand{
+    color: aqua;
+    font-style: italic;
+    font-size: 30px;
+}
+.liste{
+    display:flex;
+    justify-content: space-between;
+}
+.font-size{
+    font-size:23px;
+    border: 52px;
+    border-radius: 30px;
+    text-align: center;
+color: brown;
+}
+.text-align{
+    text-align: right;
+}
